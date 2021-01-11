@@ -1,0 +1,16 @@
+
+.Search input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+.Search input:focus {
+    box-shadow: none;
+    border-color: #ced4da;
+  }
+
+.Search button {
+    border-top-left-radius: 0 !important;
+    border-bottom-left-radius: 0 !important;;
+  }
+
